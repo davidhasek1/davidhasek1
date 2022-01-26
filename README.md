@@ -6,8 +6,8 @@
   I am Front End developer from <b>Prague, Czech Republic</b>.</p>
   	
   💡 &nbsp;I like to explore new trends and learn new technologies.\
-  🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>Node.js</u></a>, <a style="color:#764ABC" href="https://redux-saga.js.org/" target="_blank"><u>Redux Saga</u></a> and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a>.\
-  🚧 &nbsp;I'm currently working on online shop project to help few people around me in this hard times 🚀.\
+  🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://nodejs.org/" target="_blank"><u>Node.js</u></a>, <a style="color:#764ABC" href="https://redux-saga.js.org/" target="_blank"><u>Redux Saga</u></a> and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a>.\
+  🚧 &nbsp;I'm currently working on online shop project and rentals platform to help few people around me in this hard times 🚀.\
   💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 </p>
 <br>
