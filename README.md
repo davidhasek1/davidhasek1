@@ -31,6 +31,8 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite.js-FFC71D?style=flat-square&logo=vite" />
+ 
 
 </p>
 
